@@ -125,3 +125,6 @@ public class Login {
 
 //W3Schools, 2024. Java regular expressions. [online] Available at:
 //<https://www.w3schools.com/java/java_regex.asp> [Accessed 17 September 2026].//
+//GeeksforGeeks, 2024. Regular Expressions in Java. [online] Available at:
+//<https://www.geeksforgeeks.org/write-regular-expressions/>
+//[Accessed 17 September 2026].
