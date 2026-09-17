@@ -128,3 +128,6 @@ public class Login {
 //GeeksforGeeks, 2024. Regular Expressions in Java. [online] Available at:
 //<https://www.geeksforgeeks.org/write-regular-expressions/>
 //[Accessed 17 September 2026].
+//Baeldung, 2024. A Guide to Java Regular Expressions API. [online] Available at:
+//<https://www.baeldung.com/regular-expressions-java>
+//[Accessed 17 September 2026].
