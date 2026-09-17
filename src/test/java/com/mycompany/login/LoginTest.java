@@ -99,13 +99,13 @@ public class LoginTest {
     public void testReturnLoginStatusSuccess() {
         login.registerUser("kyl_1", "Ch&&sec@ke99!", "+27838968976");
         login.loginUser("kyl_1", "Ch&&sec@ke99!");
-        assertEquals("Welcome Kyle, Smith it is great to see you again.",
+        assertEquals("Welcome Kyle, Smith great to see you again.",
                 login.returnLoginStatus(true));
     }
  
     @Test
     public void testReturnLoginStatusFailure() {
-        assertEquals("Username or password incorrect, please try again.",
+        assertEquals("Username or password incorrect,  try again.",
                 login.returnLoginStatus(false));
     }
 }
